@@ -813,7 +813,7 @@ function Home() {
                     <li><a href="#documentation">Documentation</a></li>
                     <li><a href="#release">Release Status</a></li>
                     <li><a href="#customers"> Customers</a></li>
-                    <li><a href="#helpcenter"> Help Center</a></li>
+                    <li><a href="#helpcenter">Help Center</a></li>
                 </ul>
 
                 </div>
@@ -824,7 +824,7 @@ function Home() {
                 </div>
             </div>
             </div>
-        </div>
+        </div> 
         {/* copyright */}
         <section className="w3l-copyright text-center">
             <div className="container">
