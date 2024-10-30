@@ -812,7 +812,7 @@ function Home() {
                     <li><a href="#traning">Training Center</a></li>
                     <li><a href="#documentation">Documentation</a></li>
                     <li><a href="#release">Release Status</a></li>
-                    <li><a href="#customers"> Customers</a></li>
+                    <li><a href="#customers">Customers</a></li>
                     <li><a href="#helpcenter">Help Center</a></li>
                 </ul>
 
