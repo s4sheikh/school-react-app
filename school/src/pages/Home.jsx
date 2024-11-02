@@ -4,7 +4,6 @@ import BreadCrumps from '../components/BreadCrumps'
 function Home() {
   return (
     <>
-
         {/* main-slider */}
         <section className="w3l-main-slider" id="home">
             <div className="companies20-content">
